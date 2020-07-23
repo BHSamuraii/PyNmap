@@ -1,1 +1,2 @@
-Welcome to the Python 3.8 Nmap Scan Configuration Tool v1.00. This tool is built for anyone who may or may not have had any past experiences with Nmap, with
+Welcome to the Python 3.8 Nmap Scan Configuration Tool v1.00. This tool is built for anyone who may or may not have had any past experiences with Nmap. It allows anyone to scan their network and find useful information, they might not have known prior to the use of this tool. This tool also has 14 different types of scans that anyone can easily run and also has an option to save the results to a file for later use.
+

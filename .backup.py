@@ -7,7 +7,7 @@ dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
 nmap = nmap3.Nmap()
 from time import sleep
 pyfiglet.print_figlet("Python  Nmap")
-print("Welcome to the Python3.8 Nmap Scan Configuration Tool v1.0 \n Choose only one number at a time \n To run this script, make sure you are root \n We also urge you to save scans to a file, as the output will be much more clearer and in original Nmap format")
+print("Welcome to the Python3.8 Nmap Scan Configuration Tool v1.0 \n Choose only one number at a time \n To run this script, make sure you are root \n We also urge you to save scans to a file, as the output will be in original Nmap format")
 print('------------------------------------------------------------------')
 answer = input("   [1] OS and Version detection \n   [2] Port Scan \n   [3] Host Discovery \n   [4] Scan Techniques \n   [5] Exit Scanner \n   Enter a number to choose what scan you would like to initiate: ") 
 if answer == "q":
